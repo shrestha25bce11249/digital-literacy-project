@@ -65,6 +65,11 @@ Digital literacy refers to the ability to use digital technology, communication 
 ![image alt](https://github.com/shrestha25bce11249/digital-literacy-project/blob/main/hackerank2.png?raw=true)
 ![image alt](https://github.com/shrestha25bce11249/digital-literacy-project/blob/main/response.png?raw=true)
 
+-----
+
+##  GOOGLE FORM LINK
+https://docs.google.com/forms/d/e/1FAIpQLSdeXyGzclPEbPWlT8_sbVAm8V9ab_7OwOd0suVYBCBAfGloKw/viewform?usp=dialog
+
 ## 📊 Conclusion
 Digital literacy is a vital skill in the modern world. It empowers individuals to use technology safely, efficiently, and responsibly. By understanding digital tools and online safety, we can improve our daily lives and contribute to a smarter society.
 
