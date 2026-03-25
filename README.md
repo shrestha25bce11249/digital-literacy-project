@@ -62,7 +62,7 @@ Digital literacy refers to the ability to use digital technology, communication 
 ## IMAGES USED IN PROJECT
 ![image alt](https://github.com/shrestha25bce11249/digital-literacy-project/blob/main/googleform.png?raw=true)
 ![image alt](https://github.com/shrestha25bce11249/digital-literacy-project/blob/main/hacherank1.png?raw=true)
-![image alt]()
+![image alt](https://github.com/shrestha25bce11249/digital-literacy-project/blob/main/hackerank2.png?raw=true)
 ![image alt]()
 
 ## 📊 Conclusion
